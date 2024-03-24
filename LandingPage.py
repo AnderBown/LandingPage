@@ -12,6 +12,12 @@ def main():
             Ce jeu Flappy Bird réalisé en Python avec Pygame. Contrôlez l'oiseau pour éviter les tuyaux et marquer des points. Le jeu comprend des classes pour gérer les événements et l'interface, ainsi qu'une fonction de pause et de retour au menu principal après la fin du jeu.
             """
         )
+        
+        st.markdown(
+            """
+            L'oiseau deviendra de plus en plus rapides, ce qui rendra le jeu plus difficile.
+            """
+        )
 
         col1, col2, col3 = st.columns(3)
         

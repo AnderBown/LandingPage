@@ -70,6 +70,8 @@ def main():
             Notre public cible comprend les amateurs de jeux mobiles de tous âges, en particulier ceux qui apprécient les jeux simples et addictifs.
             """
         )
+        st.image("pour-tous-publics.svg", width=300)
+
     
     elif selected_page == "Jeu en streamlit":
         st.markdown(

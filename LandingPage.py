@@ -67,7 +67,7 @@ def main():
         st.title("Public Cible")
         st.markdown(
             """
-            Notre public cible comprend les amateurs de jeux mobiles de tous âges, en particulier ceux qui apprécient les jeux simples et addictifs.
+            Notre public cible comprend les amateurs de jeux de tous âges, en particulier ceux qui apprécient les jeux simples et addictifs.
             """
         )
         st.image("pour-tous-publics.svg", width=300)
